@@ -130,10 +130,6 @@ The application works smoothly on:
 
 **Jelam Raval**
 
-Computer Engineering Student
-
-Python & Full Stack Web Developer
-
 ---
 
 ## ⭐ Support
