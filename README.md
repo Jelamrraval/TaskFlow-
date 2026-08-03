@@ -129,7 +129,7 @@ The application works smoothly on:
 ## 👨‍💻 Author
 
 **Jelam Raval**
-
+Copyright (c) 2026 Jelam Raval
 ---
 
 ## ⭐ Support
